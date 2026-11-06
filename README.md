@@ -3,7 +3,7 @@
 Browse upcoming events, view details and register for the ones you like. Built with plain **HTML5, CSS3 and JavaScript**, with no frameworks or build step.
 
 **Live site:** _add your Netlify / Vercel / GitHub Pages link_
-**Repository:** _add your GitHub link_
+**Repository:** https://prithwiraj145.github.io/Eventora/
 
 ## Features
 - Hero section with a live countdown to the next event
